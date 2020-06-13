@@ -1,0 +1,37 @@
+#title {
+    color: #ff686b;
+    background-color: #84dcc6;
+    font-style: oblique;
+    font-size: 40px;
+    padding: 30px 30px 30px 30px;
+    width: fit-content;
+}
+
+#mainParagraph{
+    display: inline;
+    font-size: 30px;
+}
+
+#topTenTitle{
+    font-size: 40px;
+    color: #ff686b;
+}
+
+#correctAnswers {
+    color: green;
+}
+
+
+#topTenList{
+        font-size: 30px;
+        padding-left: 100px;     
+}
+
+body{
+    margin: 70px;
+    background-color: #a5ffd6;
+}
+
+h2{
+    color: red;
+}
